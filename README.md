@@ -13,3 +13,7 @@ This is a sample file for my GitHub Test repository. I'm learning Markdown.
 1. Item
 2. Item
 3. Item
+
+### Link Example
+
+[Duck Search](https://duckduckgo.com)
